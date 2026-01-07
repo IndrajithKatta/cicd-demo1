@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>a62f6236-0b02-4e5f-a8eb-dc5e37aedb12</groupId>
-	<artifactId>health_check045</artifactId>
+	<artifactId>health-check045</artifactId>
 	<version>1.3.0</version>
 	<packaging>mule-application</packaging>
 
-	<name>health_check045</name>
+	<name>health-check045</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
